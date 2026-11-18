@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the archived release and the associated manuscript."
+title: "circadian-backsplicing-power: kinetic attenuation and detectability calculations for circadian back-splicing"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Li
+    given-names: Xinzhong
+    affiliation: "School of Health and Life Sciences, Teesside University, UK"
+  - family-names: Režen
+    given-names: Tadeja
+    affiliation: "Institute for Biochemistry and Molecular Genetics, University of Ljubljana, Slovenia"
+  - family-names: Gao
+    given-names: Bingmiao
+    affiliation: "School of Pharmacy, Hainan Medical University, Haikou, China"
+  - family-names: Smulders-Srinivasan
+    given-names: Tora K.
+    affiliation: "School of Health and Life Sciences, Teesside University, UK"
+  - family-names: Uliassi
+    given-names: Elisa
+    affiliation: "Department of Pharmacy and Biotechnology, Alma Mater Studiorum – Università di Bologna, Italy"
