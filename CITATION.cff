@@ -2,6 +2,9 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the archived release and the associated manuscript."
 title: "circadian-backsplicing-power: kinetic attenuation and detectability calculations for circadian back-splicing"
 version: 1.0.0
+doi: 10.5281/zenodo.24355074
+date-released: 2026-11-18
+repository-code: "https://github.com/Net4Brain/circadian-backsplicing-power"
 license: MIT
 authors:
   - family-names: Li
